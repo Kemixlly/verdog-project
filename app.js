@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
   var map = L.map('map').setView([40.75527789581924, 15.535535290147822], 13);
 
   var greenIcon = L.icon({
-    iconUrl: 'https://pt.quizur.com/_image?href=https://img.quizur.com/f/img638416f95c3a02.09155291.jpg?lastEdited=1669601029&w=600&h=600&f=webp',
+    iconUrl: 'https://pbs.twimg.com/profile_images/1313275517475356672/D0emUmQS_400x400.jpg',
  
     iconSize:     [80, 60], // size of the icon
     iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
